@@ -3,3 +3,4 @@ const uniqueNumbers = [...new Set(numbers)];
 
 console.log(uniqueNumbers); 
 // Output: [1, 2, 3, 4, 5]
+console.log("kavin is a good boy"); 
